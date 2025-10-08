@@ -1,0 +1,38 @@
+
+.Admin-head{
+    margin-left: 450px;
+        /* border: solid 2px rgba(0, 0, 0, 0.673); */
+    height: 350px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.743);
+    border-radius: 10px;
+    
+}
+.log{
+    margin-left: 55px;
+        padding-top: 40px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.input{
+    margin-left: 58px;
+    margin-top: 40px;
+}
+.mail{
+    margin-left: 22px;
+}
+.sign-btn{
+    margin-left: 110px;
+    margin-top: 40px;
+    background-color: red;
+    border-radius: 10px;
+    width: 100px;
+}
+.forget-btn{
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.AdminLogin-backimg{
+    background-image: url('/Users/pranave/Desktop/Sweet Shop/sweet/src/Assets/Images/doughnut-violet-flavorful-glaze-background_23-2148269011.avif');
+    height: 100vh;
+padding-top: 150px;
+}

@@ -1,0 +1,37 @@
+.text{
+    margin-left: 250px;
+
+    margin-top: 150px;
+}
+.mail{
+    margin-top: 40px;
+}
+.number{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.border{
+    width: 650px;
+    height: 500px;
+    border: 1px  solid black ;
+    margin-left: 250px;
+    margin-top: 100px;
+    border-radius: 10px;
+        background-color:  rgba(255, 127, 80, 0.196);
+    
+    
+}
+.name{
+    margin-left: 20px;
+}
+.edit{
+    margin-left: 400px;
+}
+.second-box{
+    margin-top: 20px;
+    margin-left: 33px;
+}
+.third-box{
+    margin-top: 20px;
+    margin-left: 25px;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.UserRegister-background{
+    background-image: url('/Users/pranave/Desktop/Sweet Shop/sweet/src/Assets/Images/download (1).jpeg');
+
+    height: 100vh;
+    background-size: cover;
+padding-top: 100px;
+}
+.UserRegister-innerborder{
+   /* border: 2px rgba(0, 0, 0, 0.18) solid; */
+   width: 400px;
+   height: 550px;
+   margin-left: 450px;
+   border-radius: 20px;
+   background-color: rgba(80, 175, 215, 0.91);
+   padding: 20px;
+}
+.User-head{
+margin-left: 140px;
+
+}
+.form-control{
+    width: 150px;
+    /* margin-left: 80px; */
+     margin-top: 25px;
+}
+.UserRegister-mail{
+    margin-left: 100px;
+}
+.UserReg-btn{
+    margin-left: 120px;
+    margin-top: 30px;
+    border-radius: 20px;
+    width: 150px;
+}

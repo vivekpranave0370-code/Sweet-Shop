@@ -1,0 +1,136 @@
+.dashboard-settings{
+    width: 250px;
+    /* border: 2px solid ; */
+    background-color:grey;
+    /* position: fixed; */
+}
+.dashboard-settings>h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.dashboard-settings>link h5{
+  color: white;
+  display: flex;
+justify-content: space-evenly;
+position: relative;
+top: 70px;
+}
+ .admin-homepage{
+    position: relative;
+    left: 50px;
+     top: 50px;
+     color: white;
+}
+.adminupload{
+    color: white;
+    justify-content: center;
+    position: relative; 
+    top: 80px;
+    left: 50px;
+    
+ } 
+ .admingraph{
+    color: white;
+    justify-content: center;
+    position: relative; 
+    top: 100px;
+    left: 50px;
+ }
+ .admin-layout{
+    height: 100px;
+    width: 1440px;
+background-color:white;
+}
+.admin-layout>h1{
+    display: flex;
+    justify-content: center;
+  padding-top: 20px;
+}
+.order-box{
+    background-color: whitesmoke;
+
+    border-radius: 15px;
+position: relative;
+width: 150px;
+right: 20px;
+}
+.order-box-2{
+    background-color: whitesmoke;
+    position: relative;
+    border-radius: 15px;
+    width: 150px;
+
+}
+.order-box-3{
+    background-color: whitesmoke;
+    border-radius: 15px;
+    position: relative;
+    width: 150px;
+    left: 20px;
+}
+.three-boxes{
+position: relative;
+left: 150px;
+top: 50px;
+/* width: 200px; */
+}
+.product-details{
+    border-radius: 20px;
+    background-color: whitesmoke;
+    width: 800px;
+    position: relative; 
+     display: flex; 
+     top: 50px;
+     right: 70px;
+} 
+.product-details{
+    display: flex;
+
+
+}
+.headers{
+    position: relative;
+    bottom: 100px;
+    right: 50px;
+}
+.logout-btn{
+    position: relative;
+    top: 130px;
+    left: 50px;
+}
+.logout-btn>button{
+    width: 110px;
+    border-radius: 20px;
+}
+.order-box-4{
+    background-color: whitesmoke;
+    border-radius: 15px;
+    position: relative;
+    left: 50px;
+    width: 150px;
+}
+.table-dashboard{
+    bottom: 130px;
+    right: 30px;
+}
+.admin-trash{
+color: red;   
+}
+.tablesubhead{
+   position: relative;
+   left: 200px; 
+}
+.User-subhead{
+    position: relative;
+    left: 50px;
+}
+.Detail-date{
+    position: relative;
+    left: 140px;
+}
+.heading-user{
+    position: relative;
+    left: 230px;
+}

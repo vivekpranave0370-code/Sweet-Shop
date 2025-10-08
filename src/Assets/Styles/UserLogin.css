@@ -1,0 +1,51 @@
+.UserLoginBackground{
+    background-image: url('/Users/pranave/Desktop/Sweet Shop/sweet/src/Assets/Images/download (1).jpeg');
+    background-size: cover;
+    height: 100vh;
+padding-top: 200px;
+}
+.UserLogin-Innerborder{
+    width: 400px;
+    height: 500px;
+    margin-left: 450px;
+    border-radius: 20px;
+    background-color: rgba(80, 175, 215, 0.91);
+    padding: 30px;
+
+}
+.UserLogin-Head{
+    margin-left: 140px;
+}
+.UserLogin-Input{
+    width: 150px;
+    margin-left: 80px;
+}
+.UserLogin-Number{
+    margin-top: 60px;
+
+}
+.UserLogin-Loginbtn{
+    margin-left: 80px;
+    margin-top: 30px;
+    width: 200px;
+    border-radius: 20px;
+}
+.UserLogin-Regbtn{
+    margin-top: 10px;
+    margin-left: 80px;
+    border-radius: 20px;
+    width: 200px;
+    height: 35px;
+    background-color: rgb(210, 23, 23);
+    color: white;
+}
+.Forget-btn{
+    margin-top: 10px;
+    margin-left: 80px;
+    border-radius: 20px;
+    width: 200px;
+    height: 35px;
+background-color: blue;
+    color: white;
+
+}

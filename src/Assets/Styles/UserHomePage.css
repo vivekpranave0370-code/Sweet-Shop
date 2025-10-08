@@ -1,0 +1,124 @@
+/* .UserHomePage-background{ */
+    /* background-image: url('/Users/pranave/Desktop/Sweet Shop/sweet/src/Assets/Images/download.png'); */
+    /* background-size: cover;
+    height: 100vh; */
+
+    
+/* } */
+.UserHomePage-Navbar{
+margin-left: 250px;
+}
+
+.UserHomePage-Profile{
+    color: black;
+}
+.UserHomePage-Aboutus{
+color: black;
+}
+.UserHomePage-Search{
+    margin-right: 100px;
+}
+.UserHomePage-Searchbtn{
+    height: 40px;
+    margin-top: 20px;
+}
+.card-img{
+    /* width: 300px; */
+    height: 250px;
+}
+.card-border{
+    width: 303px;
+  
+   position: relative;
+   top:50px ;
+   left: 10px;
+}
+
+.home-btn{
+    color: black;
+    gap: 50px;
+}
+
+.banner{
+    height: 200px;
+    width: 1439px;
+}
+
+.quotes-1{
+    font-size: x-large;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 40px;
+    display: flex;
+    
+}
+.quotes-backgroundcolor{
+    background-color: white;
+    padding-top: 10px;
+}
+/* .quotes-2{
+    margin-left: 750px;
+} */
+
+.main-container{
+    background-color:    rgba(255, 127, 80, 0.196);
+    height: 500px;
+}
+.btn-order{
+background-color: blue;
+color: white;
+width: 100px;
+border-radius: 2rem;
+}
+.img-size{
+    width: 800px;
+    height: 600px;
+    margin-left: 300px;
+    border-radius: 2rem;
+}
+.body-about{
+    background-color:  rgba(255, 127, 80, 0.196);
+}
+.body-title{
+    background-color: white;
+}
+
+.pranave{
+    text-align: center;
+}
+.created{
+    text-align: center;
+
+}
+.contact{
+text-align: center;
+}
+.email{
+text-align: center;
+}
+.phone{
+text-align: center;
+}
+.about-btn{
+    margin-left: 640px;
+    background-color:black;
+    color: white;
+    border-radius: 2rem;
+    width: 120px;
+    margin-top: 10px;
+}
+/* .card-background-colour{
+    height: 100%;
+} */
+
+.log-btn{
+    height: 40px;
+    position: relative;
+    left: 40px;
+    top: 20px;
+    border-radius: 30px;
+    width: 90px;
+}
+
+
+

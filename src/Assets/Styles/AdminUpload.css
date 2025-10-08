@@ -1,0 +1,35 @@
+.Uploadborder{
+    width: 350px;
+    height: 250px;
+    /* border: solid black 2px; */
+    margin-left: 450px;
+    margin-top: 200px;
+    border-radius: 10px;
+    background-color:    rgba(255, 127, 80, 0.196);
+
+}
+.Upload-description{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Upload-file{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Upload-title{
+    margin-left: 10px;
+    margin-top: 20px;
+
+}
+.Upload-price{
+margin-left: 10px;
+margin-top: 20px;
+}
+.Upload-Sbt{
+    margin-left: 200px;
+    margin-top: 25px;
+    border-radius: 10px;
+    width: 100px;
+    background-color: rgba(7, 64, 188, 0.947);
+    color: white;
+}
